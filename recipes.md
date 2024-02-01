@@ -93,7 +93,7 @@ Instructions:
 ### Chocolate Chip Cookies
 
 Ingredients:
-- 2 1/4 cups all-purpose flour
+- 4 1/4 cups all-purpose flour
 - 1 tsp baking soda
 - 1 tsp salt
 - 1 cup unsalted butter, softened
